@@ -1,5 +1,7 @@
+<h1 align="center">Hi 👋, I'm Seth Lawson</h1>
+<h3 align="center">Backend and Mobile Engineering Student</h3>
 # 💫 About Me:
-<br> Hi 👋, I'm Seth Lawson<br>🔭 I’m currently working on ...<br>👯 I am looking to collaborate on open-source projects and startup projects.<br>🌱 I’m currently learning Backend engineering.<br>💬 Ask me about mobile and backend app development.<br>📫 How to reach me, latesethlawsonhetchely@gmail.com.
+🔭 I’m currently working on ...<br>👯 I am looking to collaborate on open-source projects and startup projects.<br>🌱 I’m currently learning Backend engineering.<br>💬 Ask me about mobile and backend app development.<br>📫 How to reach me, latesethlawsonhetchely@gmail.com.
 
 
 ## 🌐 Socials:
@@ -14,8 +16,5 @@
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 😂 Random Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
